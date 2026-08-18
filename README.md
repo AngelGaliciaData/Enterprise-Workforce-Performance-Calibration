@@ -6,12 +6,14 @@ An enterprise-grade People Analytics solution built across a **Dual-Tier Analyti
 ---
 
 ## 📐 Dual-Tier Architecture Overview
+
+```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      GLOBAL WORKFORCE COCKPIT                          │
 └───────────────────────────────────┬────────────────────────────────────┘
-│
-┌─────────────────────────┴─────────────────────────┐
-▼                                                   ▼
+                                    │
+          ┌─────────────────────────┴─────────────────────────┐
+          ▼                                                   ▼
 ┌────────────────────────────┐                       ┌────────────────────┐
 │      EXCEL DASHBOARD       │                       │  POWER BI DASHBOARD│
 │   (Tier 1: Demographics)   │                       │ (Tier 2: Performance)│
@@ -19,6 +21,7 @@ An enterprise-grade People Analytics solution built across a **Dual-Tier Analyti
 │  • Geographic Distribution │ ─── Unified Logic ──► │  • PayZone Match   │
 │  • Status Breakdown        │                       │  • Evaluation Bias │
 └────────────────────────────┘                       └────────────────────┘
+```
 
 
 ---
