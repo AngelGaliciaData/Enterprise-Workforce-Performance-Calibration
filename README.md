@@ -67,7 +67,10 @@ IF(
     "HIGH RISK: Skewed Rating Distribution (>20%)",
     "GOVERNED: Normal Distribution Curve"
 )
-🛡️ Governance & Enterprise Risk ControlRACI Governance FrameworkRAID Risk Management Log📂 Repository StructurePlaintextEnterprise-Workforce-Performance-Calibration/
+
+🛡️ Governance & Enterprise Risk ControlRACI Governance FrameworkRAID Risk Management Log
+
+Enterprise-Workforce-Performance-Calibration/
 │
 ├── README.md                           <-- Executive Project Documentation
 │
