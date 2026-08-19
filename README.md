@@ -93,4 +93,19 @@ IF(
     ├── Tier2_PowerBI_Calibration_Analytics.png
     ├── RACI Governance Matrix.png
     └── RAID Risk Managment Log.png
-🛠️ Tech Stack & HRIS EcosystemETL Engine: Power Query (Language M)Analytics & Visualization: Power BI Desktop, Advanced DAX, Microsoft ExcelHR Data Governance: RACI Framework, RAID Risk LoggingTarget Enterprise Systems: Workday HCM, SAP SuccessFactors, SICH+👨‍💻 Author & ContactJesús Ángel Galicia HernándezHR Digital Transformation, HRIS Governance & People Analytics Specialist📧 jesus.angel.galicia.90@gmail.com
+
+🛠️ Tech Stack & HRIS Ecosystem
+ETL Engine: Power Query (Language M)
+
+Analytics & Visualization: Power BI Desktop, Advanced DAX, Microsoft Excel
+
+HR Data Governance: RACI Framework, RAID Risk Logging
+
+Target Enterprise Systems: Workday HCM, SAP SuccessFactors, SICH+
+
+👨‍💻 Author & Contact
+Jesús Ángel Galicia Hernández
+
+HR Digital Transformation, HRIS Governance & People Analytics Specialist
+
+📧 jesus.angel.galicia.90@gmail.com
