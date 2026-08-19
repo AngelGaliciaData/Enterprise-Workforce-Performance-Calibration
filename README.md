@@ -66,7 +66,8 @@ IF(
     [High_Performers_Pct] > 0.20,
     "HIGH RISK: Skewed Rating Distribution (>20%)",
     "GOVERNED: Normal Distribution Curve"
-)```
+)
+```
 
 🛡️ Governance & Enterprise Risk ControlRACI Governance FrameworkRAID Risk Management Log
 
@@ -74,28 +75,16 @@ Enterprise-Workforce-Performance-Calibration/
 │
 ├── README.md                           <-- Executive Project Documentation
 │
-├── src/                                <-- TECHNICAL CODE
-│   ├── ETL_PowerQuery_Queries.m        <-- Production M-Code ETL Script
-│   └── dax_measures.dax                <-- Core DAX Calculation Measures
-│
-├── docs/                               <-- GOVERNANCE & FRAMEWORKS
-│   ├── Performance_Workflow.md         <-- Interactive Mermaid Process Flow
-│   ├── RACI_Governance_Matrix.md       <-- Markdown RACI Documentation
-│   ├── RAID_Risk_Management_Log.md     <-- Risk & Mitigation Framework
-│   └── Case_Study_Executive_Summary_EN.pdf <-- Executive Strategy Paper
-│
-├── Data/                               <-- DATASETS
-│   ├── Strategic_Workforce_Dataset.xlsx
-│   └── DATASET RRHH.csv
-│
-├── Dashboards_PowerBI/                 <-- POWER BI SOURCE
-│   └── Performance Calibration & Evaluation Bias Analytics.pbix
-│
-└── Image/                              <-- DASHBOARD CAPTURES & DIAGRAMS
-    ├── Tier1_Excel_Demographics_Cockpit.png
-    ├── Tier2_PowerBI_Calibration_Analytics.png
-    ├── RACI Governance Matrix.png
-    └── RAID Risk Managment Log.png
+└── Data/                               <-- DATASETS & PROJECT ASSETS
+    ├── Strategic_Workforce_Dataset.xlsx
+    ├── DATASET RRHH.csv
+    ├── ETL_PowerQuery_Queries.m
+    ├── Performance Calibration & Evaluation Bias Analytics.pbix
+    └── Image/                          <-- DASHBOARD CAPTURES & DIAGRAMS
+        ├── Tier1_Excel_Demographics_Cockpit.png
+        ├── Tier2_PowerBI_Calibration_Analytics.png
+        ├── RACI Governance Matrix.png
+        └── RAID Risk Managment Log.png
 
 🛠️ Tech Stack & HRIS Ecosystem
 ETL Engine: Power Query (Language M)
