@@ -96,19 +96,20 @@ Enterprise-Workforce-Performance-Calibration/
         └── RAID Risk Managment Log.png
 
 
+---
+
 ## 🛠️ Tech Stack & HRIS Ecosystem
-ETL Engine: Power Query (Language M)
 
-Analytics & Visualization: Power BI Desktop, Advanced DAX, Microsoft Excel
+* **ETL Engine:** Power Query *(Language M)*[cite: 1]
+* **Analytics & Visualization:** Power BI Desktop, Advanced DAX, Microsoft Excel[cite: 1]
+* **HR Data Governance:** RACI Framework, RAID Risk Logging[cite: 1]
+* **Target Enterprise Systems:** Workday HCM, SAP SuccessFactors, SICH+[cite: 1]
 
-HR Data Governance: RACI Framework, RAID Risk Logging
-
-Target Enterprise Systems: Workday HCM, SAP SuccessFactors, SICH+
-
+---
 
 ## 👨‍💻 Author & Contact
-Jesús Ángel Galicia Hernández
 
-HR Digital Transformation, HRIS Governance & People Analytics Specialist
+**Jesús Ángel Galicia Hernández**[cite: 1]  
+*HR Digital Transformation, HRIS Governance & People Analytics Specialist*[cite: 1]
 
-📧 jesus.angel.galicia.90@gmail.com
+[![Email](https://img.shields.io/badge/Email-jesus.angel.galicia.90%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesus.angel.galicia.90@gmail.com)
