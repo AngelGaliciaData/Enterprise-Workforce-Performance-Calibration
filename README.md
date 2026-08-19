@@ -69,8 +69,17 @@ IF(
 )
 ```
 
-🛡️ Governance & Enterprise Risk ControlRACI Governance FrameworkRAID Risk Management Log
+## 🛡️ Governance & Enterprise Risk Control
 
+| RACI Governance Framework | RAID Risk Management Log |
+| :---: | :---: |
+| ![RACI Matrix](Data/Image/RACI%20Governance%20Matrix.png) | ![RAID Log](Data/Image/RAID%20Risk%20Managment%20Log.png) |
+
+---
+
+## 📂 Repository Structure
+
+```text
 Enterprise-Workforce-Performance-Calibration/
 │
 ├── README.md                           <-- Executive Project Documentation
@@ -86,7 +95,8 @@ Enterprise-Workforce-Performance-Calibration/
         ├── RACI Governance Matrix.png
         └── RAID Risk Managment Log.png
 
-🛠️ Tech Stack & HRIS Ecosystem
+
+## 🛠️ Tech Stack & HRIS Ecosystem
 ETL Engine: Power Query (Language M)
 
 Analytics & Visualization: Power BI Desktop, Advanced DAX, Microsoft Excel
@@ -95,7 +105,8 @@ HR Data Governance: RACI Framework, RAID Risk Logging
 
 Target Enterprise Systems: Workday HCM, SAP SuccessFactors, SICH+
 
-👨‍💻 Author & Contact
+
+## 👨‍💻 Author & Contact
 Jesús Ángel Galicia Hernández
 
 HR Digital Transformation, HRIS Governance & People Analytics Specialist
