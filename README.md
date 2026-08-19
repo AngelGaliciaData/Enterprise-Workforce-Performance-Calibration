@@ -66,7 +66,8 @@ IF(
     [High_Performers_Pct] > 0.20,
     "HIGH RISK: Skewed Rating Distribution (>20%)",
     "GOVERNED: Normal Distribution Curve"
-)
+)````
+
 
 🛡️ Governance & Enterprise Risk ControlRACI Governance FrameworkRAID Risk Management Log
 
