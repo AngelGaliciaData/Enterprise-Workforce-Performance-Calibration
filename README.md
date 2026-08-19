@@ -25,16 +25,16 @@ In large-scale enterprise environments, performance calibration often suffers fr
 ## 🖼️ Dashboard Architecture & Visual Deliverables
 
 ### Tier 1: Executive Demographic Cockpit (Excel / Power Query)
-![Tier 1 Cockpit](Image/Tier1_Excel_Demographics_Cockpit.png)
+![Tier 1 Cockpit](Data/Image/Tier1_Excel_Demographics_Cockpit.png)
 
 ### Tier 2: Performance Calibration & Bias Analytics (Power BI)
-![Tier 2 Analytics](Image/Tier2_PowerBI_Calibration_Analytics.png)
+![Tier 2 Analytics](Data/Image/Tier2_PowerBI_Calibration_Analytics.png)
 
 ---
 
 ## ⚙️ Core DAX Analytics Engine
 
-Below are the key measures implemented within the dedicated `_Medidas` container table in Power BI to audit distribution bias and identify performance outliers:
+Below are the key measures implemented within the dedicated `_Medidas` container table in Power BI to audit distribution bias and identify performance outliers[cite: 1]:
 
 ```dax
 // =========================================================================
@@ -66,8 +66,7 @@ IF(
     [High_Performers_Pct] > 0.20,
     "HIGH RISK: Skewed Rating Distribution (>20%)",
     "GOVERNED: Normal Distribution Curve"
-)
-```
+)```
 
 🛡️ Governance & Enterprise Risk ControlRACI Governance FrameworkRAID Risk Management Log
 
