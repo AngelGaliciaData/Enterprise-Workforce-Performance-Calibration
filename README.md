@@ -25,7 +25,7 @@ In large-scale enterprise environments, performance calibration often suffers fr
 ## 🖼️ Dashboard Architecture & Visual Deliverables
 
 ### Tier 1: Executive Demographic Cockpit (Excel / Power Query)
-![Tier 1 Cockpit](Image/Tier1_Excel_Demographic_Cockpit.png)
+![Tier 1 Cockpit](Image/Tier1_Excel_Demographics_Cockpit.png)
 
 ### Tier 2: Performance Calibration & Bias Analytics (Power BI)
 ![Tier 2 Analytics](Image/Tier2_PowerBI_Calibration_Analytics.png)
