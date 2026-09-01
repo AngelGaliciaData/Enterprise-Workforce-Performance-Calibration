@@ -78,8 +78,8 @@ IF(
       <td align="center"><b>RAID Risk Management Log</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="Image/RACI_Governance_Matrix.png" width="400"></td>
-      <td align="center"><img src="Image/RAID_Risk_Management_Log.png" width="400"></td>
+      <td align="center"><img src="Image/RACI_Governance_Matrix.PNG" width="400"></td>
+      <td align="center"><img src="Image/RAID_Risk_Management_Log.PNG" width="400"></td>
     </tr>
   </table>
 </div>
