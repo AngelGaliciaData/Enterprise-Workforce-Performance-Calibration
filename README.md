@@ -25,10 +25,10 @@ In large-scale enterprise environments, performance calibration often suffers fr
 ## 🖼️ Dashboard Architecture & Visual Deliverables
 
 ### Tier 1: Executive Demographic Cockpit (Excel / Power Query)
-![Tier 1 Cockpit](Data/Image/Tier1_Excel_Demographics_Cockpit.png)
+![Tier 1 Cockpit](Image/Tier1_Excel_Demographic_Cockpit.png)
 
 ### Tier 2: Performance Calibration & Bias Analytics (Power BI)
-![Tier 2 Analytics](Data/Image/Tier2_PowerBI_Calibration_Analytics.png)
+![Tier 2 Analytics](Image/Tier2_PowerBI_Calibration_Analytics.png)
 
 ---
 
@@ -73,7 +73,7 @@ IF(
 
 | RACI Governance Framework | RAID Risk Management Log |
 | :---: | :---: |
-| ![RACI Matrix](Data/Image/RACI%20Governance%20Matrix.png) | ![RAID Log](Data/Image/RAID%20Risk%20Managment%20Log.png) |
+| ![RACI Matrix](Image/RACI_Governance_Matrix.png) | ![RAID Log](Image/RAID_Risk_Management_Log.png) |
 
 ---
 
@@ -81,20 +81,16 @@ IF(
 
 ```text
 Enterprise-Workforce-Performance-Calibration/
-│
-├── README.md                           <-- Executive Project Documentation
-│
-└── Data/                               <-- DATASETS & PROJECT ASSETS
-    ├── Strategic_Workforce_Dataset.xlsx
-    ├── DATASET RRHH.csv
-    ├── ETL_PowerQuery_Queries.m
-    ├── Performance Calibration & Evaluation Bias Analytics.pbix
-    └── Image/                          <-- DASHBOARD CAPTURES & DIAGRAMS
-        ├── Tier1_Excel_Demographics_Cockpit.png
-        ├── Tier2_PowerBI_Calibration_Analytics.png
-        ├── RACI Governance Matrix.png
-        └── RAID Risk Managment Log.png
-```
+├── README.md                                 <-- Executive Project Documentation
+├── Dashboards_PowerBI/                       <-- Power BI Master Files (.pbix)
+├── Data/                                     <-- Datasets & Production Code
+│   ├── HRIS_Enterprise_Dataset_v1.xlsx
+│   ├── Strategic_Workforce_Dataset.xlsx
+│   ├── DATASET RRHH.csv
+│   ├── ETL_PowerQuery_Queries.m
+│   └── DAX_Measures_Library.txt
+├── Decks/                                    <-- Executive Case Studies & PDFs
+└── Image/                                    <-- High-Res Dashboard Captures & Diagrams```
 
 ---
 
