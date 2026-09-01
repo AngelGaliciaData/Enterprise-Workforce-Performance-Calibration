@@ -69,11 +69,20 @@ IF(
 )
 ```
 
-## 🛡️ Governance & Enterprise Risk Control
+## ## 🛡️ Governance & Enterprise Risk Control
 
-| RACI Governance Framework | RAID Risk Management Log |
-| :---: | :---: |
-| ![RACI Matrix](Image/RACI_Governance_Matrix.png) | ![RAID Log](Image/RAID_Risk_Management_Log.png) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>RACI Governance Framework</b></td>
+      <td align="center"><b>RAID Risk Management Log</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="Image/RACI_Governance_Matrix.png" width="400"></td>
+      <td align="center"><img src="Image/RAID_Risk_Management_Log.png" width="400"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
